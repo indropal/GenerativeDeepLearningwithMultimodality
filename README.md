@@ -2,3 +2,4 @@
 Convert Text Prompts to Image with sophisticated CLIP &amp; GAN model architectures.
 
 <h3>Update with working architecture of CLIP & VQGAN Models being used in tandem</h3>
+updating soon
